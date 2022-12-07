@@ -4,7 +4,7 @@
 - ⭐️ I've recently graduated from Code Institute's Full Stack Diploma 
 - :point_right: I'm awaiting my final grade but you can checkout my final project at: [AndWatch's](/erikandersson96/portfolio-project-five)
 - 📫 How to reach me erik96.andersson@gmail.com
-- Click [here](cv/cv.pdf) to view my CV
+- Click [here](https://github.com/erikandersson96/cv/blob/main/cv.pdf) to view my CV
 
 <!---
 erikandersson96/erikandersson96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
