@@ -6,6 +6,10 @@
 - 📫 How to reach me erik96.andersson@gmail.com
 - :zap: Click [here](https://github.com/erikandersson96/cv/blob/main/cv.pdf) to view my CV (in swedish)
 
+### Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/erikhopemedia/)
+
 <!---
 erikandersson96/erikandersson96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
